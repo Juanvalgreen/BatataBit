@@ -1,6 +1,11 @@
 .exchange-tables-container{
     justify-content: center;
 }
+.bitcoin-container{
+
+    background: url(../assets/img/bitcoinbaby2x.jpg) center/cover no-repeat ;
+     
+}
 
 
 
