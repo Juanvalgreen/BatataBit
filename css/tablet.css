@@ -1,0 +1,19 @@
+.exchange-tables-container{
+    justify-content: center;
+}
+
+
+
+.profits__cards-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto;
+
+}
+
+.plans-container__carousel{
+    justify-content: center;
+}
